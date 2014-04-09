@@ -1,3 +1,8 @@
+'''
+I was playing around with L-systems and random pen colours in Turtle.
+The dragon_build isn't mine, just something I found on on StackOverflow
+'''
+
 import turtle
 import random
 
