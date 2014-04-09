@@ -1,3 +1,10 @@
+'''
+A little script I wrote to understand how DOS attacks would work.
+This of course would more likely chrash your own internet long before
+chrashing anything else. And doesn't take into account their router blocking
+the IP long before it does any damage.
+'''
+
 import urllib.request
 import socket
 import urllib
